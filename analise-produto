@@ -77,10 +77,10 @@ print("Amplitude Produtos:", amplitude)
 
 # Perguntas
 # 1. Qual é a diferença entre média e mediana?
-    # A média é a soma de todos os números divididos pela sua quantidade, enquanto a mediana é o número que fica no meio de numéros pares. ✅
+    # A média é a soma de todos os números divididos pela sua quantidade, enquanto a mediana é o número que fica no meio de numéros pares.
 # 2. Por que a moda é importante?
-    # A moda é importante para análisar o valor que mais se repete dentre os outros, se tiver um número de reclamações em determinado departamento, a moda indica o tipo de natureza. ✅
+    # A moda é importante para análisar o valor que mais se repete dentre os outros, se tiver um número de reclamações em determinado departamento, a moda indica o tipo de natureza.
 # 3. Qual é o significado da variância?
-    # A variânca ira medir as dispersões dos dados em relação à sua média. ✅
+    # A variânca ira medir as dispersões dos dados em relação à sua média.
 # 4. Como o desvio padrão relaciona-se com a variância?
-    # Eles se relacionam pois o próprio desvio padrão mede a quantidade de dispersões e variâncas presentes no conjunto de dados. ✅
+    # Eles se relacionam pois o próprio desvio padrão mede a quantidade de dispersões e variâncas presentes no conjunto de dados.
