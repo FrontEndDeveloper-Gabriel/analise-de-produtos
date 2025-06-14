@@ -4,7 +4,7 @@
 Um sistema desenvolvido em Python que extrai e analisa um conjunto de dados que é composto por 30 produtos.
 
 # <h3>Detalhes <br>
- ● É calculada e exibida a média, mediana, moda, desvio padrão e variânca dos produtos; <br>
+ ● É calculada e exibida a média, mediana, moda, desvio padrão e variânca dos produtos.
 
 <br>
 <strong>
